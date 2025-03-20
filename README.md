@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Mihir Amin
 
-🚀 **Java Developer | Back End Enthusiast | Problem Solver**  
+🚀 **PHP Developer | Back End Enthusiast | Problem Solver**  
 
-Welcome to my GitHub profile! I'm a passionate developer with over 2 years of experience in Java and expertise in multiple technologies, including web development, databases, and React.
+Welcome to my GitHub profile! I'm a passionate developer and a 2nd year Computer Engineering student with Good experience in PHP and expertise in multiple technologies, including web development, databases, and React.
 
 ---
 
@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate developer with over 2 years of ex
 
 - 🎓 **Second-year Computer Science Student**  
 - 💻 **Skilled in**: Java, React, PHP, SQL, HTML, CSS, JavaScript  
-- 🌱 **Currently Learning**: Advanced Java and JDBC  
+- 🌱 **Currently Learning**: PHP and Laravel  
 - 🎯 **Goals for 2025**: Build impactful projects, contribute to open source, and gain hands-on experience through Hackathons.  
 - 💡 **Hobbies**: Exploring new tech, gaming, and brainstorming innovative solutions.  
 
