@@ -8,8 +8,8 @@ Welcome to my GitHub profile! I'm a passionate developer and a 2nd year Computer
 
 ## 🌟 About Me
 
-- 🎓 **Second-year Computer Science Student**  
-- 💻 **Skilled in**: Java, React, PHP, SQL, HTML, CSS, JavaScript  
+- 🎓 **Second-year Computer Engineering Student**  
+- 💻 **Skilled in**: PHP, MySQL, HTML, CSS, JavaScript, Java, React
 - 🌱 **Currently Learning**: PHP and Laravel  
 - 🎯 **Goals for 2025**: Build impactful projects, contribute to open source, and gain hands-on experience through Hackathons.  
 - 💡 **Hobbies**: Exploring new tech, gaming, and brainstorming innovative solutions.  
@@ -19,9 +19,9 @@ Welcome to my GitHub profile! I'm a passionate developer and a 2nd year Computer
 ## 🛠️ My Tech Stack
 
 ### **Languages:**
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat-square&logo=postgresql&logoColor=white)
 
 ### **Frontend:**
@@ -30,8 +30,8 @@ Welcome to my GitHub profile! I'm a passionate developer and a 2nd year Computer
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
 
 ### **Backend & Databases:**
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 
 ### **Tools & Platforms:**
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
