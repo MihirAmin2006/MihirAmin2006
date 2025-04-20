@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Mihir Amin</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=PHP+Developer+%7C+Backend+Enthusiast;Problem+Solver+%7C+Hackathon+Explorer;Loves+Clean+Code+and+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=445&lines=PHP+Developer+%7C+Backend+Enthusiast;Problem+Solver+%7C+Hackathon+Explorer;Loves+Clean+Code+and+Learning+New+Tech" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -42,16 +42,6 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MihirAmin2006&show_icons=true&theme=radical" alt="Mihir's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MihirAmin2006&theme=radical" alt="GitHub Streak" />
-</p>
 
 ---
 
