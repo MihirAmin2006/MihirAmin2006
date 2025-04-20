@@ -1,46 +1,80 @@
-# 👋 Hi, I'm Mihir Amin
+<h1 align="center">👋 Hi, I'm Mihir Amin</h1>
 
-🚀 **PHP Developer | Back End Enthusiast | Problem Solver**  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=PHP+Developer+%7C+Backend+Enthusiast;Problem+Solver+%7C+Hackathon+Explorer;Loves+Clean+Code+and+Learning+New+Tech" alt="Typing SVG" />
+</p>
 
-Welcome to my GitHub profile! I'm a passionate developer and a 2nd year Computer Engineering student with Good experience in PHP and expertise in multiple technologies, including web development, databases, and React.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+</p>
 
 ---
 
 ## 🌟 About Me
 
-- 🎓 **Second-year Computer Engineering Student**  
+- 🎓 **2nd Year Computer Engineering Student**
 - 💻 **Skilled in**: PHP, MySQL, HTML, CSS, JavaScript, Java, React
-- 🌱 **Currently Learning**: PHP and Laravel  
-- 🎯 **Goals for 2025**: Build impactful projects, contribute to open source, and gain hands-on experience through Hackathons.  
-- 💡 **Hobbies**: Exploring new tech, gaming, and brainstorming innovative solutions.  
+- 🌱 **Currently Learning**: PHP & Laravel  
+- 🎯 **2025 Goals**: Build impactful projects, contribute to open-source, win hackathons  
+- 🧠 **Interests**: Backend development, building full-stack web apps, learning about DevOps  
+- 🎮 **Hobbies**: Exploring new tech, gaming, and solving real-world problems
 
 ---
 
 ## 🛠️ My Tech Stack
 
-### **Languages:**
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat-square&logo=postgresql&logoColor=white)
+### 👨‍💻 Languages:
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### **Frontend:**
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
+### 🌐 Frontend:
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 
-### **Backend & Databases:**
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+### 🔧 Backend & Database:
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### **Tools & Platforms:**
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=flat-square&logo=xampp&logoColor=white)
+### 🧰 Tools & IDEs:
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white)
 
 ---
 
-### ✨ Fun Fact
+## 📈 GitHub Stats
 
-_"I find beauty in clean code and innovative solutions."_  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MihirAminDev&show_icons=true&theme=radical" alt="Mihir's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MihirAminDev&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🗺️ Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/mihiramin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mihiramin.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/MihirAminDev">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ✨ Fun Fact
+_“I find beauty in clean code and innovative solutions.”_
+
+---
+
+> 🚀 *“Learning never exhausts the mind, it only ignites it.”*
 
