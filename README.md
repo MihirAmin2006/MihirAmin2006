@@ -50,7 +50,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MihirAminDev&show_icons=true&theme=radical" alt="Mihir's GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MihirAminDev&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MihirAmin2006&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
