@@ -12,7 +12,7 @@
 
 ## 🌟 About Me
 
-- 🎓 **2nd Year Computer Engineering Student**
+- 🎓 **3rd Year Computer Engineering Student**
 - 💻 **Skilled in**: PHP, MySQL, HTML, CSS, JavaScript, Java, React
 - 🌱 **Currently Learning**: PHP & Laravel  
 - 🎯 **2025 Goals**: Build impactful projects, contribute to open-source, win hackathons  
