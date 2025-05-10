@@ -16,7 +16,7 @@
 - 💻 **Skilled in**: PHP, MySQL, HTML, CSS, JavaScript, Java, React
 - 🌱 **Currently Learning**: PHP & Laravel  
 - 🎯 **2025 Goals**: Build impactful projects, contribute to open-source, win hackathons  
-- 🧠 **Interests**: Backend development, building full-stack web apps, learning about DevOps  
+- 🧠 **Interests**: Backend development, building full-stack web apps  
 - 🎮 **Hobbies**: Exploring new tech, gaming, and solving real-world problems
 
 ---
