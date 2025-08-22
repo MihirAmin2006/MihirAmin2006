@@ -48,7 +48,7 @@
 <p align="center">
   🌍 <a href="https://wanderlust-scarface-byteclan.netlify.app/">AI Trip Planner</a> – Hackathon Project  
   <br>
-  🏫 <a href="#">Annual Report Generation Portal</a> – University Project  
+  🏫 <a href="https://cookify-website.vercel.app/">Cookify</a> – Food Website Project 
   <br>
   🤖 <a href="#">AI Chatbot Integration</a> – PHP + Python  
 </p>
