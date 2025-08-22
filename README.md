@@ -49,8 +49,6 @@
   🌍 <a href="https://wanderlust-scarface-byteclan.netlify.app/">AI Trip Planner</a> – Hackathon Project  
   <br>
   🏫 <a href="https://cookify-website.vercel.app/">Cookify</a> – Food Website Project 
-  <br>
-  🤖 <a href="#">AI Chatbot Integration</a> – PHP + Python  
 </p>
 
 ---
@@ -61,7 +59,7 @@
   <a href="https://www.linkedin.com/in/mihir-amin-49033a2ab/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:mihirmamin2006@gmail.com">
+  <a href="mailto:mihiramin99@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/MihirAmin2006" target="_blank">
