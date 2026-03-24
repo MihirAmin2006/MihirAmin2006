@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-<h1 align="center">👋 Hey there, I'm <span style="color:#0078ff;">Mihir Amin</span></h1>
+<h1 align="center">👋 Hey there <span style="color:#0078ff;">Mihir</span> here</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=500&lines=Backend+Developer+%7C+PHP+Enthusiast;Hackathon+Explorer+%7C+Problem+Solver;Clean+Code+Lover+%7C+Always+Learning" alt="Typing Animation" />
@@ -37,17 +37,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MihirAmin2006&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihirAmin2006&layout=compact&theme=radical&hide_border=true" height="130"/>
 </p>
 
----
-
-## 🚀 Projects Showcase  
-
 <p align="center">
-  🌍 <a href="https://wanderlust-scarface-byteclan.netlify.app/">AI Trip Planner</a> – Hackathon Project  
-  <br>
-  🏫 <a href="https://cookify-website.vercel.app/">Cookify</a> – Food Website Project 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MihirAmin2006&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -74,7 +68,7 @@ _“I find beauty in clean code and innovative solutions.”_
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MihirAmin2006&style=for-the-badge&color=blue" alt="Profile Views" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MihirAmin2006&theme=radical&no-frame=true&row=1&column=7&margin-w=10" />
 </p>
 
 > 🚀 *“Learning never exhausts the mind, it only ignites it.”*  
