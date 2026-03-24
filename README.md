@@ -14,9 +14,8 @@
 ## 🌟 About Me  
 
 - 🎓 **Computer Engineering Student (3rd Year)**  
-- 💻 **Skilled in**: PHP, MySQL, HTML, CSS, JavaScript, Java, React  
-- 🌱 **Currently Learning**: MERN Stack  
-- 🎯 **2025 Goals**: Build impactful projects, contribute to open-source & win hackathons  
+- 💻 **Skilled in**: PHP, MySQL, HTML, CSS, JavaScript, Java, React   
+- 🎯 **2026 Goals**: Build impactful projects, contribute to open-source & get a good internship
 - 🧠 **Passion**: Backend Development & Full-Stack Applications  
 - 🎮 **Hobbies**: Gaming 🎮 | Exploring Tech 🔍 | Solving Problems 🧩  
 
