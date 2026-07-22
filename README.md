@@ -20,8 +20,6 @@
 
 <br><br>
 
-<p><b>Fullstack Developer · Database Engineer · Student Builder</b></p>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mihiramin1403-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihiramin1403/)
 [![Gmail](https://img.shields.io/badge/Gmail-mihiramin99-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mihiramin99@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-MihirAmin2006-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MihirAmin2006)
@@ -36,8 +34,7 @@ Computer Engineering student with a strong academic record **(Diploma CGPA 9.77 
 
 🏆 **NPTEL Certified — Python for Data Science** | Top 1% out of 23,390 learners nationwide (Score: 84%)
 
-- 🎓 BE Computer Engineering @ **LDRP-ITR, Gandhinagar** (3rd Year)
-- 💼 **Database Trainee @ Infosense Services** — PostGIS, pgRouting, dblink, postgres_fdw
+- 🎓 BE Computer Engineering @ **LDRP-ITR, Gandhinagar** (4th Year)
 - 🚀 Shipped to **real production** — 1000+ verified visitors on a live deployment
 - 🧠 Passionate about backend architecture, spatial databases & full-stack development
 
