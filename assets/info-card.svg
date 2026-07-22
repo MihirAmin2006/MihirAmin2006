@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 500" width="620" height="500">
+<defs>
+<style>
+  .line { opacity: 0; animation: fadein 0.35s ease-out forwards; }
+  @keyframes fadein { from { opacity: 0; transform: translateX(-6px); } to { opacity: 1; transform: translateX(0); } }
+  .swatch { opacity: 0; animation: popin 0.3s ease-out forwards; }
+  @keyframes popin { from { opacity: 0; transform: scale(0.6); } to { opacity: 1; transform: scale(1); } }
+</style>
+</defs>
+<rect x="1" y="1" width="618" height="498" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+<circle cx="26" cy="26" r="6" fill="#f85149"/>
+<circle cx="46" cy="26" r="6" fill="#d29922"/>
+<circle cx="66" cy="26" r="6" fill="#3fb950"/>
+<text x="310.0" y="31" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#8b949e">mihir@github: ~</text>
+<line x1="0" y1="48" x2="620" y2="48" stroke="#30363d" stroke-width="1"/>
+
+<text class="line" x="32" y="90" font-family="Consolas, 'Courier New', monospace" font-size="19" font-weight="bold" fill="#e6edf3" style="animation-delay:0.05s">mihir@github</text>
+<text class="line" x="32" y="116" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#39d353" style="animation-delay:0.1s">----------------------------------</text>
+<text class="line" x="32" y="150" font-family="Consolas, 'Courier New', monospace" font-size="15.5" style="animation-delay:0.15000000000000002s"><tspan fill="#39d353" font-weight="bold">OS</tspan><tspan fill="#e6edf3" x="124">Computer Engineering (3rd Yr)</tspan></text>
+<text class="line" x="32" y="180" font-family="Consolas, 'Courier New', monospace" font-size="15.5" style="animation-delay:0.20500000000000002s"><tspan fill="#39d353" font-weight="bold">Host</tspan><tspan fill="#e6edf3" x="124">LDRP-ITR, Gandhinagar</tspan></text>
+<text class="line" x="32" y="210" font-family="Consolas, 'Courier New', monospace" font-size="15.5" style="animation-delay:0.26s"><tspan fill="#39d353" font-weight="bold">CGPA</tspan><tspan fill="#e6edf3" x="124">9.77 Diploma  ·  8.83 BE</tspan></text>
+<text class="line" x="32" y="240" font-family="Consolas, 'Courier New', monospace" font-size="15.5" style="animation-delay:0.315s"><tspan fill="#39d353" font-weight="bold">Role</tspan><tspan fill="#e6edf3" x="124">Database Trainee @ Infosense Services</tspan></text>
+<text class="line" x="32" y="270" font-family="Consolas, 'Courier New', monospace" font-size="15.5" style="animation-delay:0.37s"><tspan fill="#39d353" font-weight="bold">Stack</tspan><tspan fill="#e6edf3" x="124">PHP · PostgreSQL · PostGIS · React.js</tspan></text>
+<text class="line" x="32" y="300" font-family="Consolas, 'Courier New', monospace" font-size="15.5" style="animation-delay:0.425s"><tspan fill="#39d353" font-weight="bold">Cert</tspan><tspan fill="#e6edf3" x="124">NPTEL Python for DS — Top 1% / 23,390</tspan></text>
+<text class="line" x="32" y="330" font-family="Consolas, 'Courier New', monospace" font-size="15.5" style="animation-delay:0.48s"><tspan fill="#39d353" font-weight="bold">Shipped</tspan><tspan fill="#e6edf3" x="124">4 projects · 1000+ live users</tspan></text>
+<text class="line" x="32" y="360" font-family="Consolas, 'Courier New', monospace" font-size="15.5" style="animation-delay:0.535s"><tspan fill="#39d353" font-weight="bold">Uptime</tspan><tspan fill="#e6edf3" x="124">always building, always learning</tspan></text>
+<rect class="swatch" x="32" y="404" width="26" height="26" rx="4" fill="#f85149" style="animation-delay:0.6900000000000001s"/>
+<rect class="swatch" x="64" y="404" width="26" height="26" rx="4" fill="#d29922" style="animation-delay:0.7300000000000001s"/>
+<rect class="swatch" x="96" y="404" width="26" height="26" rx="4" fill="#3fb950" style="animation-delay:0.77s"/>
+<rect class="swatch" x="128" y="404" width="26" height="26" rx="4" fill="#39d353" style="animation-delay:0.81s"/>
+<rect class="swatch" x="160" y="404" width="26" height="26" rx="4" fill="#58a6ff" style="animation-delay:0.8500000000000001s"/>
+<rect class="swatch" x="192" y="404" width="26" height="26" rx="4" fill="#bc8cff" style="animation-delay:0.8900000000000001s"/>
+<rect class="swatch" x="224" y="404" width="26" height="26" rx="4" fill="#f778ba" style="animation-delay:0.93s"/>
+<rect class="swatch" x="256" y="404" width="26" height="26" rx="4" fill="#e6edf3" style="animation-delay:0.9700000000000001s"/>
+</svg>
