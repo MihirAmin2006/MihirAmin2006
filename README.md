@@ -30,7 +30,7 @@
 
 ## <code>mihir@github ~ $ cat about.md</code>
 
-Computer Engineering student with a strong academic record **(Diploma CGPA 9.77 | BE CPI 8.83)** and hands-on experience in web development and database engineering. Proficient in PHP, Java, JavaScript, React.js, PostgreSQL, and MySQL, with practical exposure to PostGIS and spatial databases through an internship. Experienced in collaborating and leading small development teams to deliver full-stack projects from concept to deployment.
+Computer Engineering student with a strong academic record **(Diploma CGPA 9.77 | BE CPI 8.83)** and hands-on experience in web development and database development. Proficient in PHP, Java, JavaScript, React.js, PostgreSQL, and MySQL, with practical exposure to PostGIS and spatial databases. Experienced in collaborating and leading small development teams to deliver full-stack projects from concept to deployment.
 
 🏆 **NPTEL Certified — Python for Data Science** | Top 1% out of 23,390 learners nationwide (Score: 84%)
 
@@ -50,9 +50,9 @@ Computer Engineering student with a strong academic record **(Diploma CGPA 9.77 
 |---|---|
 | **Languages** | PHP, Java, Python, JavaScript, SQL |
 | **Frontend** | React.js, HTML/CSS, Tailwind CSS, AJAX |
-| **Backend** | REST API, JWT, WebRTC |
-| **Databases** | MySQL, PostgreSQL, Oracle SQL, SQL Server |
-| **DB Extensions** | PostGIS, pgRouting, dblink, postgres_fdw |
+| **Backend** | JWT, WebRTC, Role-based Access Control |
+| **Databases** | MySQL, PostgreSQL, Microsoft SQL Server |
+| **DB Extensions** | PostGIS, pgRouting, dblink, postgres_fdw, PL/Python3u |
 | **Tools** | Git & GitHub, Postman, VS Code, Claude Code |
 
 ---
