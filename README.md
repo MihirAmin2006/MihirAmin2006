@@ -36,7 +36,6 @@ Computer Engineering student with a strong academic record **(Diploma CGPA 9.77 
 
 - 🎓 BE Computer Engineering @ **LDRP-ITR, Gandhinagar** (4th Year)
 - 🚀 Shipped to **real production** — 1000+ verified visitors on a live deployment
-- 🧠 Passionate about backend architecture, spatial databases & full-stack development
 
 ---
 
