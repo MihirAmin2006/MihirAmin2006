@@ -45,15 +45,16 @@ Computer Engineering student with a strong academic record **(Diploma CGPA 9.77 
   <img src="https://skillicons.dev/icons?i=php,js,java,python,react,html,css,tailwind,mysql,postgres,git,vscode,postman" />
 </p>
 
-| Category | Skills |
-|---|---|
-| **Languages** | PHP, Java, Python, JavaScript, SQL |
-| **Frontend** | React.js, HTML/CSS, Tailwind CSS, AJAX |
-| **Backend** | JWT, WebRTC, Role-based Access Control |
-| **Databases** | MySQL, PostgreSQL, Microsoft SQL Server |
-| **DB Extensions** | PostGIS, pgRouting, dblink, postgres_fdw, PL/Python3u |
-| **Tools** | Git & GitHub, Postman, VS Code, Claude Code |
-
+<center>
+     | Category | Skills |
+     |---|---|
+     | **Languages** | PHP, Java, Python, JavaScript, SQL |
+     | **Frontend** | React.js, HTML/CSS, Tailwind CSS, AJAX |
+     | **Backend** | JWT, WebRTC, Role-based Access Control |
+     | **Databases** | MySQL, PostgreSQL, Microsoft SQL Server |
+     | **DB Extensions** | PostGIS, pgRouting, dblink, postgres_fdw, PL/Python3u |
+     | **Tools** | Git & GitHub, Postman, VS Code, Claude Code |
+</center>
 ---
 
 ## <code>mihir@github ~ $ ls projects/</code>
