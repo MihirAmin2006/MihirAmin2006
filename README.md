@@ -93,12 +93,14 @@ Zero-install browser tool to remotely control your PC via local IP — real-time
 ## <code>mihir@github ~ $ ./analytics.sh</code>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MihirAmin2006&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MihirAmin2006&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MihirAmin2006&show_icons=true&theme=radical&hide_border=true" height="160" />
+  <img src="https://streak-stats.demolab.com/?user=MihirAmin2006&theme=radical&hide_border=true" height="160" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihirAmin2006&layout=compact&theme=radical&hide_border=true" height="130"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihirAmin2006&layout=compact&theme=radical&hide_border=true" height="130" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MihirAmin2006&theme=tokyo-night&hide_border=true" />
 </p>
