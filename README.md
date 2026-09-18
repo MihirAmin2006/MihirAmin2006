@@ -30,12 +30,12 @@
 
 ## <code>mihir@github ~ $ cat about.md</code>
 
-Computer Engineering student with a strong academic record **(Diploma CGPA 9.77 | BE CPI 8.83)** and hands-on experience in web development and database development. Proficient in PHP, Java, JavaScript, React.js, PostgreSQL, and MySQL, with practical exposure to PostGIS and spatial databases. Experienced in collaborating and leading small development teams to deliver full-stack projects from concept to deployment.
+Final-year Computer Engineering student with hands-on experience in PostgreSQL, MySQL, Database Design and Development, Analytical queries, SQL, Python and PHP backend development. Skilled in relational database management, CRUD operations, transactions, and developing data-driven web applications.
 
 🏆 **NPTEL Certified — Python for Data Science** | Top 1% out of 23,390 learners nationwide (Score: 84%)
 
 - 🎓 BE Computer Engineering @ **LDRP-ITR, Gandhinagar** (4th Year)
-- 🚀 Shipped to **real production** — 1000+ verified visitors on a live deployment
+- 🚀 Shipped to **real production** — 750+ verified visitors on a live deployment
 
 ---
 
@@ -48,11 +48,10 @@ Computer Engineering student with a strong academic record **(Diploma CGPA 9.77 
 <center>
      | Category | Skills |
      |---|---|
-     | **Languages** | PHP, Java, Python, JavaScript, SQL |
-     | **Frontend** | React.js, HTML/CSS, Tailwind CSS, AJAX |
-     | **Backend** | JWT, WebRTC, Role-based Access Control |
-     | **Databases** | MySQL, PostgreSQL, Microsoft SQL Server |
-     | **DB Extensions** | PostGIS, pgRouting, dblink, postgres_fdw, PL/Python3u |
+     | **Languages** | SQL, PHP, Java, Python, C++ |
+     | **Frontend** | React.js, HTML/CSS, Tailwind CSS |
+     | **Databases** | MySQL, PostgreSQL, Oracle SQL |
+     | **DB Extensions** | PostGIS, pgRouting, dblink, postgres_fdw |
      | **Tools** | Git & GitHub, Postman, VS Code, Claude Code |
 </center>
 ---
@@ -86,7 +85,7 @@ Zero-install browser tool to remotely control your PC via local IP — real-time
 | 🥇 | NPTEL — Python for Data Science | Top 1% nationally · 84% score · 23,390 learners |
 |---|---|---|
 | 📊 | Academic Excellence | Diploma CGPA: 9.77 · BE CPI: 8.83 |
-| 🚀 | Live Production Deployment | Multiple projects · 1000+ verified users |
+| 🚀 | Live Production Deployment | Multiple projects · 750+ verified users |
 
 ---
 
