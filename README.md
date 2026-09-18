@@ -16,7 +16,7 @@
 <br>
 
 <h3><code>mihir@github ~ $ ./stats.sh</code></h3>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=600&lines=PHP+%26+Database+Engineer;PostgreSQL+%7C+PostGIS+%7C+pgRouting;Clean+Code+%7C+Real+Production+Deployments" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=600&lines=PHP+Backend+%26+Database+Developer;MySQL+%7C+PostgreSQL+%7C+PostGIS+%7C+pgRouting;Clean+Code+%7C+Real+Production+Deployments" alt="Typing Animation" />
 
 <br><br>
 
